@@ -1,9 +1,0 @@
-Building Coppercoin
-
-See doc/readme-qt.rst for instructions on building Coppercoin QT,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of Coppercoin.
-
-See doc/build-*.txt for instructions on building coppercoind,
-the intended-for-services, no-graphical-interface, reference
-implementation of Coppercoin.
