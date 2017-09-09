@@ -33,7 +33,7 @@ sudo apt-get install libdb-dev libdb++-dev libboost-all-dev libminiupnpc-dev lib
 
 Pull the source code from github, or upload it yourself:
 
-git clone https://github.com/coppercoinet/Coppercoin/coppercoin-daemon-linux.tar.gz
+git clone https://github.com/coppercoinet/Coppercoin.git 
 
 tar -xzvf coppercoin-daemon-linux.tar.gz
 
