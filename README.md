@@ -1,4 +1,5 @@
 
+
 # Coppercoin
 #
 PoW + PoS Cryptocurrency
@@ -21,4 +22,7 @@ Transaction confirmations 4 blocks
 Web Site http://coppercoin.net
 Block Explorer http://explorer.coppercoin.net
 Mining Pool http://us01.coppercoin.net
+#
+#
+
 
