@@ -1,0 +1,26 @@
+src/*.exe
+src/coppercoin
+src/coppercoind
+src/test_coppercoin
+src/build.h
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.coppercoin
+#compilation and Qt preprocessor part
+*.qm
+Makefile
+coppercoin-qt
+#resources cpp
+qrc_*.cpp
+#qt creator
+*.pro.user
+#mac specific
+.DS_Store
+build
+
+!src/leveldb/Makefile
